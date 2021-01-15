@@ -1,7 +1,9 @@
-# 世界线变动仪
+# nixie clock
 
-  内容包括：
-  * 原理图
-  * PCB
-  * 源代码
-
+  include：
+  * schematic
+  * pcb
+  * source code
+## platform
+  * ad
+  * stm32f103
